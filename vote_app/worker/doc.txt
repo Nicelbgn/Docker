@@ -1,0 +1,9 @@
+Service: Worker
+Objectif: Back-end 
+Langage: C#, css
+Services externes: PostgreSQL, redis
+bibliothèque: Npgsql, ackExchange.Redis
+Identifiants: 
+- DBHOST: db 
+- DBNAME: postgres
+- DBPASS: postgres

@@ -1,0 +1,10 @@
+Service: vote
+Objectif: Back-end 
+Langage: Python, css, Html
+Services externes: redis , Redis est une base de données en mémoire utilisée comme système de stockage clé-valeur.
+bibliothèque: Flash, Redis-py, et bien d'autres
+Identifiants: 
+- DBHOST: 
+- DBNAME: 
+- DBUSER: 
+- DBPASS: 

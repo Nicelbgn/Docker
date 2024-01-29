@@ -1,0 +1,10 @@
+Service: result
+Objectif: Back-end 
+Langage: JavaScript, Html, 
+Services externes: une base de données PostgreSQL
+bibliothèque: pg
+Identifiants:
+- DBHOST: B_HOST
+- DBNAME: DB_NAME
+- DBUSER: B_USER
+- DBPASS: DB_PASS
